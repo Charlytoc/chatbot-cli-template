@@ -1,6 +1,6 @@
 ## Welcome!
 
-### I did it this template to easily a chatbot you can talk with directly in your command
+### I did it this template to easily a chatbot you can talk with directly in your command line
 
 First clone this repository with:
 ```
